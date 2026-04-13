@@ -7,3 +7,18 @@ listing:
 ---
 
 Hello world
+
+
+## Course Lessons
+
+- Introduction to Literate Analysis Using Quarto 
+- Cleaning and Wrangling data
+- Data Visualization
+- Functions and packages
+
+## Course Practice Session
+
+- Practice I
+- Practice II
+- Practice III
+
