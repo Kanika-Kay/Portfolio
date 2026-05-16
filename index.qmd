@@ -16,5 +16,5 @@ Hello world
 - Data Visualization
 
 Assignments
-[a02](/assignments/a02.html)
+[a01](/assignments/a01_quarto_literate_analysis.html)
 [intro to spatial data](/assignments/intro-to-spatial-data.html)
