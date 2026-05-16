@@ -1,11 +1,11 @@
 ---
 title: "Portfolio"
-listing:
-  contents: assignments
-  sort: "date asc"
-  fields: [title, date]
+output: html_document 
+contents: assignments
+sort: "date asc"
 ---
 
+GitHub Pages Example
 Hello world
 
 
