@@ -7,3 +7,14 @@ sort: "date asc"
 
 
 Hello world
+
+## Course Lessons
+
+- Introduction to Literate Analysis Using Quarto 
+- Tidy Data
+- Cleaning and Wrangling data
+- Data Visualization
+
+Assignments
+[a02](/assignments/a02.html)
+[intro to spatial data](/assignments/intro-to-spatial-data.html)
